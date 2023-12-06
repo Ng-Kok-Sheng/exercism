@@ -1,0 +1,12 @@
+go 1.18
+
+use (
+	./annalyns-infiltration
+	./cars-assemble
+	./hello-world
+	./lasagna
+	./party-robot
+	./vehicle-purchase
+	./weather-forecast
+	./welcome-to-tech-palace
+)
