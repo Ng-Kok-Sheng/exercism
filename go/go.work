@@ -2,6 +2,8 @@ go 1.18
 
 use (
 	./annalyns-infiltration
+	./blackjack
+	./card-tricks
 	./cars-assemble
 	./hello-world
 	./lasagna
