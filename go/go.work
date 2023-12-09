@@ -3,11 +3,13 @@ go 1.18
 use (
 	./animal-magic
 	./annalyns-infiltration
+	./bird-watcher
 	./blackjack
 	./card-tricks
 	./cars-assemble
 	./hello-world
 	./lasagna
+	./lasagna-master
 	./need-for-speed
 	./party-robot
 	./vehicle-purchase
