@@ -8,6 +8,7 @@ use (
 	./card-tricks
 	./cars-assemble
 	./hello-world
+	./interest-is-interesting
 	./lasagna
 	./lasagna-master
 	./need-for-speed
