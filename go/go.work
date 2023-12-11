@@ -9,6 +9,7 @@ use (
 	./card-tricks
 	./cars-assemble
 	./chessboard
+	./election-day
 	./gross-store
 	./hello-world
 	./interest-is-interesting
