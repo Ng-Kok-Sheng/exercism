@@ -8,6 +8,7 @@ use (
 	./booking-up-for-beauty
 	./card-tricks
 	./cars-assemble
+	./chessboard
 	./gross-store
 	./hello-world
 	./interest-is-interesting
