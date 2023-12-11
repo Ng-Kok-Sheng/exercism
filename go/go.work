@@ -5,6 +5,7 @@ use (
 	./annalyns-infiltration
 	./bird-watcher
 	./blackjack
+	./booking-up-for-beauty
 	./card-tricks
 	./cars-assemble
 	./hello-world
