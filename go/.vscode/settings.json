@@ -1,4 +1,4 @@
 {
   "go.useLanguageServer": true,
-  "go.gopath": "${workspaceFolder}"
+  "go.gopath": "${workspaceFolder}/learning-track"
 }
