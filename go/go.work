@@ -16,6 +16,7 @@ use (
 	./learning-track/interest-is-interesting
 	./learning-track/lasagna
 	./learning-track/lasagna-master
+	./learning-track/logs-logs-logs
 	./learning-track/need-for-speed
 	./learning-track/party-robot
 	./learning-track/vehicle-purchase
