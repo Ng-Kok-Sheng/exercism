@@ -1,6 +1,7 @@
 go 1.18
 
 use (
+	./easy-exercise/two-fer
 	./learning-track/airport-robot
 	./learning-track/animal-magic
 	./learning-track/annalyns-infiltration
