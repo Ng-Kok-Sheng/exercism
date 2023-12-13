@@ -1,6 +1,7 @@
 go 1.18
 
 use (
+	./learning-track/airport-robot
 	./learning-track/animal-magic
 	./learning-track/annalyns-infiltration
 	./learning-track/bird-watcher
