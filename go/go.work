@@ -22,6 +22,7 @@ use (
 	./learning-track/lasagna-master
 	./learning-track/logs-logs-logs
 	./learning-track/need-for-speed
+	./learning-track/parsing-log-files
 	./learning-track/party-robot
 	./learning-track/vehicle-purchase
 	./learning-track/weather-forecast
