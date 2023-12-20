@@ -25,6 +25,7 @@ use (
 	./learning-track/need-for-speed
 	./learning-track/parsing-log-files
 	./learning-track/party-robot
+	./learning-track/sorting-room
 	./learning-track/vehicle-purchase
 	./learning-track/weather-forecast
 	./learning-track/welcome-to-tech-palace
