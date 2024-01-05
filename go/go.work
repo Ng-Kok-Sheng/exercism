@@ -26,6 +26,7 @@ use (
 	./learning-track/parsing-log-files
 	./learning-track/party-robot
 	./learning-track/sorting-room
+	./learning-track/the-farm
 	./learning-track/vehicle-purchase
 	./learning-track/weather-forecast
 	./learning-track/welcome-to-tech-palace
