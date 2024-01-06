@@ -3,6 +3,7 @@ go 1.18
 use (
 	./easy-exercise/collatz-conjecture
 	./easy-exercise/gigasecond
+	./easy-exercise/hamming
 	./easy-exercise/raindrops
 	./easy-exercise/two-fer
 	./learning-track/airport-robot
