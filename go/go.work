@@ -15,6 +15,7 @@ use (
 	./learning-track/census
 	./learning-track/chessboard
 	./learning-track/election-day
+	./learning-track/expenses
 	./learning-track/elons-toys
 	./learning-track/gross-store
 	./learning-track/hello-world
