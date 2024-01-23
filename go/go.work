@@ -5,6 +5,7 @@ use (
 	./easy-exercise/gigasecond
 	./easy-exercise/hamming
 	./easy-exercise/raindrops
+	./easy-exercise/scrabble-score
 	./easy-exercise/two-fer
 	./learning-track/airport-robot
 	./learning-track/animal-magic
@@ -17,8 +18,8 @@ use (
 	./learning-track/census
 	./learning-track/chessboard
 	./learning-track/election-day
-	./learning-track/expenses
 	./learning-track/elons-toys
+	./learning-track/expenses
 	./learning-track/gross-store
 	./learning-track/hello-world
 	./learning-track/interest-is-interesting
