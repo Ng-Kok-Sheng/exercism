@@ -4,6 +4,8 @@ use (
 	./easy-exercise/collatz-conjecture
 	./easy-exercise/gigasecond
 	./easy-exercise/hamming
+	./easy-exercise/isogram
+	./easy-exercise/leap
 	./easy-exercise/raindrops
 	./easy-exercise/scrabble-score
 	./easy-exercise/two-fer
